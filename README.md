@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Students Management System (SMS) -A comprehensive solution for managing and analysing students' academic performance. Students Management System (SMS) - An all-encompassing solution designed to effectively manage and analyze students' academic performance, empowering educators and institutions to drive academic excellence.</p>
+<p align="left">Students Management System (SMS) - An all-encompassing solution designed to effectively manage and analyze students' academic performance, empowering educators and institutions to drive academic excellence.</p>
 
 ###
 
