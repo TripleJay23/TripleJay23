@@ -72,16 +72,16 @@
 
 <h1 align="left">⚡Fun Fact</h1>
 
-###
+
 
 <p align="left">Cristiano Ronaldo's Shots are very powerful, with some strikes clocked at over 100km/h🚀...............The GOAT</p>
 
-###
 
-<br clear="both">
+
+
 
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/hryis7A55UXZNCUTNA/giphy.gif?cid=6c09b9528tvx2t7jvu9bd9saxo04ampskx3ejkhnp4rpiegb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+  <img height="170" width="auto" src="https://media3.giphy.com/media/hryis7A55UXZNCUTNA/giphy.gif?cid=6c09b9528tvx2t7jvu9bd9saxo04ampskx3ejkhnp4rpiegb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 </div>
 
-###
+
