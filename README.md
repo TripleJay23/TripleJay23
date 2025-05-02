@@ -65,13 +65,10 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/TripleJay23/TripleJay23/output/snake.svg" alt="Snake animation" />
-
-###
+</div>
 
 <h1 align="left">⚡Fun Fact</h1>
 
