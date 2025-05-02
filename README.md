@@ -1,114 +1,90 @@
-<h1 align="left">Hi there👋, I'm Jordan</h1>
+<h1 align="left">Hello and welcome,  I'm Jordan</h1>
 
 ###
 
-<p align="left">I'm a Passionate computer science student with a strong interest in Web, Software, and AI development. Currently, I am focused on building practical applications that solve real-world problems.</p>
+<p align="left">I'm truly passionate about science, engineering, and innovation! My strong interest in web, software, and AI development inspires me to create practical and impactful solutions that tackle real-world challenges.<br><br>I am actively enhancing my expertise in various domains of software development to broaden my Technical proficiency and adaptability</p>
 
 ###
 
-<p align="left"></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TripleJay23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TripleJay23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<h2 align="left">🔭 Current Project</h2>
+<h1 align="left">Technical Skills</h1>
 
 ###
 
-<p align="left">Students Management System (SMS) -A comprehansive solution for managing nad analysing students academic performanceStudents Management System (SMS) - An all-encompassing solution designed to effectively manage and analyze students' academic performance, empowering educators and institutions to drive academic excellence.</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="30" alt="webflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+</div>
 
 ###
 
-<p align="left"></p>
+<h1 align="left">🔗Let's Connect</h1>
 
 ###
 
-<h2 align="left">🌱 Currently Learning</h2>
-
-###
-
-<p align="left">• Expanding my React knowledge for frontend development.  <br>• Exploring popular frameworks like Vue and Angular can spark an exhilarating adventure.  <br>• Exploring Flutter for cross-platform mobile applications.  <br>• Advancing my knowledge of database optimization and cloud computing.</p>
+<div align="center">
+  <a href="0756645935" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="jtriple187@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="jtriple188@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
 <br clear="both">
 
-<p align="left"></p>
+<img src="https://raw.githubusercontent.com/TripleJay23/TripleJay23/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h1 align="left">⚡Fun Fact</h1>
+
+###
+
+<p align="left">Cristiano Ronaldo's Shots are very powerful, with some strikes clocked at over 100km/h🚀...............The GOAT</p>
+
+###
+
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TripleJay23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<h2 align="left">Technical Skills</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<h2 align="left">🔗 Let's Connect</h2>
-
-###
-
-<p align="left">Feel free to explore my repositories. If you'd like to collaborate or learn more about my work, drop me a message.  <br>  • Email: jtriple187@outlook.com  <br>  • Whatsapp: +225756645935</p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">⚡ Fun Fact</h2>
-
-###
-
-<p align="left">Cristiano Ronaldo's shots are famously powerful, with some strikes clocked at over 100 km/h.🚀 The GOAT</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/hryis7A55UXZNCUTNA/giphy.gif?cid=6c09b9528tvx2t7jvu9bd9saxo04ampskx3ejkhnp4rpiegb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+  <img height="150" src="https://media3.giphy.com/media/hryis7A55UXZNCUTNA/giphy.gif?cid=6c09b9528tvx2t7jvu9bd9saxo04ampskx3ejkhnp4rpiegb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
