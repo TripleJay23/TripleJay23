@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Students Management System (SMS) - An all-encompassing solution designed to effectively manage and analyze students' academic performance, empowering educators and institutions to drive academic excellence.(Coming soon!)</p>
+<p align="left">Students Management System (SMS) -A comprehansive solution for managing nad analysing students academic performanceStudents Management System (SMS) - An all-encompassing solution designed to effectively manage and analyze students' academic performance, empowering educators and institutions to drive academic excellence.</p>
 
 ###
 
@@ -25,8 +25,6 @@
 <h2 align="left">🌱 Currently Learning</h2>
 
 ###
-
-
 
 <p align="left">• Expanding my React knowledge for frontend development.  <br>• Exploring popular frameworks like Vue and Angular can spark an exhilarating adventure.  <br>• Exploring Flutter for cross-platform mobile applications.  <br>• Advancing my knowledge of database optimization and cloud computing.</p>
 
@@ -40,9 +38,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TripleJay23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TripleJay23&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=TripleJay23&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TripleJay23&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TripleJay23&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
