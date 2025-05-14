@@ -70,18 +70,20 @@
 <img src="https://raw.githubusercontent.com/TripleJay23/TripleJay23/output/snake.svg" alt="Snake animation" />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/TripleJay23/count.svg?"  />
+</div>
+
+###
+
 <h1 align="left">⚡Fun Fact</h1>
 
-
-
 <p align="left">Cristiano Ronaldo's Shots are very powerful, with some strikes clocked at over 100km/h🚀...............The GOAT</p>
-
-
-
 
 
 <div align="center">
   <img height="170" width="auto" src="https://media3.giphy.com/media/hryis7A55UXZNCUTNA/giphy.gif?cid=6c09b9528tvx2t7jvu9bd9saxo04ampskx3ejkhnp4rpiegb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 </div>
-
 
