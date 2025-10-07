@@ -72,9 +72,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TripleJay23/count.svg?"  />
-</div>
+
 
 ###
 
