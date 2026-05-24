@@ -28,13 +28,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3000&size=25&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=623&lines=%F0%9F%8E%AEGaming+fuels+my+Creativity)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/TripleJay23/TripleJay23/output/snake.svg" alt="Snake animation" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TripleJay23/[TripleJay23/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TripleJay23/TripleJay23/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/TripleJay23/TripleJay23/output/galaga-contribution-graph.svg">
-</picture>
+
+
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
