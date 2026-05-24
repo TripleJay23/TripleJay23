@@ -29,11 +29,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3000&size=25&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=623&lines=%F0%9F%8E%AEGaming+fuels+my+Creativity)](https://git.io/typing-svg)
 
 
-
-
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 </div>
 <h1></h1>
 
