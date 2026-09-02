@@ -8,13 +8,6 @@
 
 
 
-<div align="center" >
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3000&size=25&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=623&lines=%E2%9C%8D%EF%B8%8FRandom+dev+quote)](https://git.io/typing-svg)
-  
-</div>
-
-
 <div align="center">
 	
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=Architect&quoteType=random&bgColor=black&fontColor=white&borderColor=silver)
